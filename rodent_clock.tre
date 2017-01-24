@@ -1,0 +1,7 @@
+(((((((((Apodemus_alpicola:2.2,Apodemus_uralensis:2.2):0.4,
+Apodemus_flavicollis:2.6):0.5,Apodemus_sylvaticus:3.1):0.4,
+Apodemus_hermonensis:3.5):3.5,Apodemus_mystacinus:7):0.9,
+((Apodemus_peninsulae:5.4,Apodemus_semotus:5.4):0.6,
+Apodemus_agrarius:6):1.9):1.7,Tokudaia_minutus:9.6):
+0.1,(Mus_musculus:0,Mus_caroli:0):9.7):2.2,
+(Rattus_norvegicus:2.6,Diplothrix_legata:2.6):9.3);
